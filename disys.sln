@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "disys", "disys.csproj", "{B6FAC72A-4D58-47FA-826A-6AC6305DABC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FAC72A-4D58-47FA-826A-6AC6305DABC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FAC72A-4D58-47FA-826A-6AC6305DABC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FAC72A-4D58-47FA-826A-6AC6305DABC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FAC72A-4D58-47FA-826A-6AC6305DABC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ADFAC47-4424-4308-B6B2-6E34483ACFF1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\publish\disys.exe
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\publish\disys.dll
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\publish\disys.deps.json
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\publish\disys.runtimeconfig.json
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\publish\disys.pdb

@@ -1,0 +1,15 @@
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\disys.exe
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\disys.deps.json
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\disys.runtimeconfig.json
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\disys.dll
+C:\Users\shiga\Desktop\Projects\disys\bin\Release\net6.0\disys.pdb
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.csproj.AssemblyReference.cache
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.AssemblyInfoInputs.cache
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.AssemblyInfo.cs
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.csproj.CoreCompileInputs.cache
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.dll
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\refint\disys.dll
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.pdb
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\disys.genruntimeconfig.cache
+C:\Users\shiga\Desktop\Projects\disys\obj\Release\net6.0\ref\disys.dll
